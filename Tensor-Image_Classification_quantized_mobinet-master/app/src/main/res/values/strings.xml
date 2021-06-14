@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CIP project- draft 3</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="instructions" />
+    <string name="ingridients" />
+    <string name="vegetarian" />
+    <string name="not_healthy" />
+    <string name="health" />
+    <string name="_000" />
+    <string name="servings" />
+    <string name="mins" />
+    <string name="ready_in_min_img" />
+    <string name="recipe_title" />
+    <string name="next">NEXT</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
